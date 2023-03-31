@@ -1,0 +1,22 @@
+{
+    "tokens": [
+        {
+            "id": 1,
+            "name": "Sample token name 1",
+            "description": "Sample token description. Sample token description. 1",
+            "image": "https://fabrykaneonow.pl/wp-content/uploads/86971427_587595421820640_5188559349584232448_n-4.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Sample token name 2",
+            "description": "Sample token description. Sample token description. 2",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi4m4tcRb66quRUIsggE-2ZU8zi5LlAT960Q&usqp=CAU"
+        },
+        {
+            "id": 1,
+            "name": "Sample token name 3",
+            "description": "Sample token description. Sample token description. 3",
+            "image": "https://naukawpolsce.pl/sites/default/files/styles/strona_glowna_slider_750x420/public/202110/40541638_39047636.jpg?itok=AXGivsop"
+        }
+    ]
+}
