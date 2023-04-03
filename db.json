@@ -13,10 +13,17 @@
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi4m4tcRb66quRUIsggE-2ZU8zi5LlAT960Q&usqp=CAU"
         },
         {
-            "id": 1,
+            "id": 3,
             "name": "Sample token name 3",
             "description": "Sample token description. Sample token description. 3",
             "image": "https://naukawpolsce.pl/sites/default/files/styles/strona_glowna_slider_750x420/public/202110/40541638_39047636.jpg?itok=AXGivsop"
+        }
+        },
+        {
+            "id": 999,
+            "name": "Base meta name",
+            "description": "Base meta description",
+            "image": "https://i.seadn.io/gcs/files/0d5e04c202f7f9500e7bdf55d6e9e688.jpg"
         }
     ]
 }
