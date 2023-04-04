@@ -28,6 +28,13 @@
             "name": "Base meta name",
             "description": "Base meta description",
             "image": "https://i.seadn.io/gcs/files/0d5e04c202f7f9500e7bdf55d6e9e688.jpg"
+        },
+        {
+            "id": 4,
+            "name": "TOken 4",
+            "description": "Token 4 description",
+            "image": "https://place-hold.it/300x500/666/fff",
+            "external_url": "https://github.com/"
         }
     ]
 }
